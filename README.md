@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://getleon.ai"><img width="96" src="https://getleon.ai/img/logo.svg" alt="Leon"></a><br>
-  Leon
+  Ahmad Bashtomy
 </h1>
 
 *<p align="center">Your open-source personal assistant.</p>*
